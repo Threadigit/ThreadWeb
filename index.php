@@ -6,13 +6,13 @@
 
     <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
     <meta name="viewport" content="width=device-width" />
-		<meta property="og:url"           content="https://www.crevhive.com/index.html" />
+		<meta property="og:url"           content="https://www.threadigit.com/index.html" />
 	   <meta property="og:type"          content="website" />
-	   <meta property="og:title"         content="Crevation Hive" />
+	   <meta property="og:title"         content="Threadigit" />
 	   <meta property="og:description"   content="A creative and innovative hive" />
-	   <meta property="og:image"         content="https://www.crevhive.com/" />
+	   <meta property="og:image"         content="https://www.threadigit.com/" />
 
-    <title>Crevation Hive </title>
+    <title>Threadigit </title>
 
     <link href="css/bootstrap.css" rel="stylesheet" />
 	<link href="css/coming-sssoon.css" rel="stylesheet" />
@@ -91,7 +91,7 @@
 
     <div class="container">
         <h1 class="logo cursive">
-            Crevation Hive
+            Threadigit
         </h1>
 
         <div class="content">
@@ -132,7 +132,7 @@
     </div>
     <div class="footer">
       <div class="container">
-             Made with <i class="fa fa-heart heart"></i> by <a href="http://www.crevhive.com">Crevation Hive</a>.
+             Made with <i class="fa fa-heart heart"></i> by <a href="http://www.threadigit.com">Threadigit</a>.
       </div>
     </div>
  </div>
