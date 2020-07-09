@@ -16,6 +16,7 @@
 
     <link href="css/bootstrap.css" rel="stylesheet" />
 	<link href="css/coming-sssoon.css" rel="stylesheet" />
+  <link rel="icon" type="image/png" href="https://avatars3.githubusercontent.com/u/32523575?s=200&v=4">
 
     <!--     Fonts     -->
     <link href="http://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.css" rel="stylesheet">
