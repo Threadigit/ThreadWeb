@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="33" viewBox="0 0 34 33">
+  <g id="box-particles" transform="translate(-578 -1312)">
+    <line id="Line_97" data-name="Line 97" y2="8" transform="translate(582.5 1324.5)" fill="none" stroke="#1fa19c" stroke-linecap="round" stroke-width="3" opacity="0.38"/>
+    <circle id="Ellipse_41" data-name="Ellipse 41" cx="4.5" cy="4.5" r="4.5" transform="translate(578 1312)" fill="#1fa19c"/>
+    <circle id="Ellipse_42" data-name="Ellipse 42" cx="4.5" cy="4.5" r="4.5" transform="translate(578 1336)" fill="#1fa19c"/>
+    <circle id="Ellipse_43" data-name="Ellipse 43" cx="4.5" cy="4.5" r="4.5" transform="translate(603 1336)" fill="#1fa19c"/>
+    <circle id="Ellipse_44" data-name="Ellipse 44" cx="4.5" cy="4.5" r="4.5" transform="translate(603 1312)" fill="#1fa19c"/>
+    <line id="Line_98" data-name="Line 98" y2="8" transform="translate(608.5 1324.5)" fill="none" stroke="#1fa19c" stroke-linecap="round" stroke-width="3" opacity="0.38"/>
+    <line id="Line_99" data-name="Line 99" y1="8" transform="translate(599.5 1315.5) rotate(90)" fill="none" stroke="#1fa19c" stroke-linecap="round" stroke-width="3" opacity="0.38"/>
+    <line id="Line_100" data-name="Line 100" y1="8" transform="translate(599.5 1341.5) rotate(90)" fill="none" stroke="#1fa19c" stroke-linecap="round" stroke-width="3" opacity="0.38"/>
+  </g>
+</svg>

@@ -1,15 +1,15 @@
 {
   "name": "typed.js",
   "version": "2.0.6",
-  "homepage": "http://www.crevhive.com",
+  "homepage": "http://www.threadigit.com",
   "repository": "https://github.com/CrevHive/crevWebsite",
   "license": "MIT",
   "author": "Adetuyi Tolu<tolu.adetuyi@gmail.com>",
-  "description": "Official countdown website for crevhive",
+  "description": "Official website for Threadigit",
   "keywords": [
     "website",
-    "crevhive",
-    "crevation hive"
+    "Threadigit",
+    "Threadigit Limited"
   ],
   "devDependencies": {
    
