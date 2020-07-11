@@ -41,7 +41,7 @@
                             <ul class="navbar-menu">
 
                                 <li class="menu-item-has-children"  data-aos="fade-left" data-aos-delay="100">
-                                    <a href="#Home">Home2</a>
+                                    <a href="#Home">Home</a>
                                 </li>
                                 <li class="menu-item-has-children"  data-aos="fade-left" data-aos-delay="150">
                                     <a href="#About"> About Us </a>
