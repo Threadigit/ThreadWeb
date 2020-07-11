@@ -43,11 +43,12 @@
                                 <li class="menu-item-has-children"  data-aos="fade-left" data-aos-delay="100">
                                     <a href="#Home">Home</a>
                                 </li>
-                                <li class="menu-item-has-children"  data-aos="fade-left" data-aos-delay="150">
-                                    <a href="#About"> About Us </a>
-                                </li>
+                               
                                 <li class="menu-item-has-children" data-aos="fade-left" data-aos-delay="200">
                                     <a href="#Contact"> Contact Us </a>
+                                </li>
+                                <li class="menu-item-has-children"  data-aos="fade-left" data-aos-delay="150">
+                                    <a href="#About"> Thread Agents </a>
                                 </li>
                                 <li class="menu-item-has-children"  data-aos="fade-left" data-aos-delay="250">
                                     <a> Products </a>
