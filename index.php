@@ -132,7 +132,7 @@
                         </h2>
                         <p class="header-desc" data-aos="fade-up" data-aos-delay="600">Get access to financial services wherever you are, whenever you want. Receive, Save, Send & Spend Money like Kings and Queens.</p>
                         <div class="navbar-menu">
-                        <a href="" data-aos="fade-up" data-aos-delay="700" class="btn btn-secondary mr-1 aos-init aos-animate">
+                        <a href="" data-aos="fade-up" data-aos-delay="700" class="btn btn-secondary mr-1">
                             Get Started
                         </a>
                     </div> 
