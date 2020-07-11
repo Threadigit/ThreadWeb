@@ -139,7 +139,7 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="header-img">
-                            <img data-aos="fade-left" data-aos-delay="700" src="https://betakit.netlify.app/assets/images/bg/hero1§.png"
+                            <img data-aos="fade-left" data-aos-delay="700" src="assets/images/bg/hero.png"
                                 alt="" />
                         </div>
                     </div>
