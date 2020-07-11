@@ -237,7 +237,7 @@
         </div>
         <div class="boxes">
             <div class="row min-30 flex center">
-                <div class="col-lg-4 col-md-6">
+                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
                     <div class="box has-shadow">
                         <div class="box-particles">
                             <img src="assets/images/others/box-particles.svg" alt="">
@@ -247,7 +247,7 @@
                         <p class="box-desc">Recharge airtime on any network and pay bills for all your favourite services </p>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6">
+                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
                     <div class="box has-shadow">
                         <div class="box-particles">
                             <img src="assets/images/others/box-particles.svg" alt="">
@@ -257,7 +257,7 @@
                         <p class="box-desc">Transfer money with ease to your loved ones from your Thread Purse </p>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6">
+                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
 
                     <div class="box has-shadow">
                         <div class="box-particles">
