@@ -99,7 +99,7 @@
                                         </li>
                                     </ul>
                                 </li>
-                            <li><a  href="#">  Get Started </li>
+                            <li><a  href="#"> Download App </li>
         
                             </ul>
                             <div class="copyright">© 2020, Threadigit.
