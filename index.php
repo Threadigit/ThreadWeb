@@ -35,7 +35,7 @@
         <nav class="navbar">
             <div class="container">
                 <div class="flex">
-                    <a href="index.html" class="navbar-brand flex vcenter"><img data-aos="fade-right"
+                    <a href="" class="navbar-brand flex vcenter"><img data-aos="fade-right"
                             class="logo" src="https://avatars3.githubusercontent.com/u/32523575?s=200&v=4" alt="" /></a>
 
                             <ul class="navbar-menu">
