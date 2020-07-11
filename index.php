@@ -66,11 +66,6 @@
                 </div>
                 <div class="level-right">
                     <!-- your list menu here -->
-                    <div class="navbar-menu align-items-right" >
-                        <a href="" data-aos="fade-left" data-aos-delay="400" class="btn btn-secondary mr-1 aos-init aos-animate">
-                            Become a Thread Agent
-                        </a>
-                    </div>
                     <div class="mobile-overlay">
                         <div class="mobile-overlay-bg"></div>
                         <div class="mobile-menu">
