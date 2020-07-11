@@ -43,12 +43,11 @@
                                 <li class="menu-item-has-children"  data-aos="fade-left" data-aos-delay="100">
                                     <a href="#Home">Home</a>
                                 </li>
-                               
+                                <li class="menu-item-has-children"  data-aos="fade-left" data-aos-delay="150">
+                                    <a href="#About"> About Us </a>
+                                </li>
                                 <li class="menu-item-has-children" data-aos="fade-left" data-aos-delay="200">
                                     <a href="#Contact"> Contact Us </a>
-                                </li>
-                                <li class="menu-item-has-children"  data-aos="fade-left" data-aos-delay="150">
-                                    <a href="#About"> Thread Agents </a>
                                 </li>
                                 <li class="menu-item-has-children"  data-aos="fade-left" data-aos-delay="250">
                                     <a> Products </a>
@@ -67,7 +66,11 @@
                 </div>
                 <div class="level-right">
                     <!-- your list menu here -->
-              
+                    <div class="navbar-menu">
+                        <a href="" data-aos="fade-left" data-aos-delay="400" class="btn btn-secondary mr-1 aos-init aos-animate">
+                            Become a Thread Agent
+                        </a>
+                    </div>
                     <div class="mobile-overlay">
                         <div class="mobile-overlay-bg"></div>
                         <div class="mobile-menu">
