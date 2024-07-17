@@ -8,14 +8,14 @@
     <!-- ========================================= Css files -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
     <link rel="stylesheet" href="assets/css/owl.carousel.min.css" />
-    
+
     <link rel="stylesheet" href="assets/css/slick.css" />
     <link rel="stylesheet" href="assets/css/slick-theme.css" />
     <link rel="stylesheet" href="assets/css/aos.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/js/all.min.js" />
     <link rel="stylesheet" href="assets/css/style.css" />
     <title>Threadigit</title>
-</head>
+</head> 
 
 <body>
     <!-- =========================== header-->
@@ -61,7 +61,7 @@
                                 <li class="menu-item-has-children"  data-aos="fade-left" data-aos-delay="300">
                                     <a href="#Blog"> Blog  </a>
                                 </li>
-                           
+
                             </ul>
                 </div>
                 <div class="level-right">
@@ -82,12 +82,12 @@
                                         About Us
                                         <ion-icon name="add-outline"></ion-icon> </a>
                                 </li>
-        
+
                                 <li><a class="has-dropdown-m" href="#Contact">
                                         Contact Us
                                         <ion-icon name="add-outline"></ion-icon> </a>
                                 </li>
-        
+
                                 <li><a class="has-dropdown-m" href="#">
                                         Products
                                         <ion-icon name="add-outline"></ion-icon> </a>
@@ -99,12 +99,12 @@
                                     </ul>
                                 </li>
                             <li><a  href="#"> Download App </li>
-        
+
                             </ul>
                             <div class="copyright">© 2020, Threadigit.
                                 <br>All right reserved.</div>
                         </div>
-        
+
                     </div>
                     <div class="flex">
                         <div class="menu-toggle-icon">
@@ -134,7 +134,7 @@
                         <a href="" data-aos="fade-up" data-aos-delay="700" class="btn btn-secondary mr-1">
                             Download App
                         </a>
-                    </div> 
+                    </div>
                     </div>
                     <div class="col-lg-6">
                         <div class="header-img">
@@ -216,18 +216,18 @@
                             </div>
                         </div>
                     </div>
-                   
+
                 </div>
             </div>
         </div>
         <div class="divider-wrap"></div>
 
     </section>
-   
+
   <!-- =========================== section feautures-->
   <section class="section is-sm section-feautures2">
     <!-- =========================== section Product-->
-   
+
     <div class="container">
         <div class="section-head d-flex justify-content-between align-items-center">
             <h2 class="section-title  mr-5">Our Product Offering</h2>
@@ -298,11 +298,11 @@
                     <div class="col-lg-6">
                         <div class="footer-desc">
                             <div class="logo">
-                                
+
                                 <h2 class="section-title text-white text-md-center text-left">
                                     <img src="https://avatars3.githubusercontent.com/u/32523575?s=200&v=4" alt="" />  Threadigit
                                 </h2>
-            
+
                             </div>
                             <p>
                                 We empower banked, underbanked & unbanked  gain access to financial services at the comfort of
